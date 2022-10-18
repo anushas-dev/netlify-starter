@@ -1,1 +1,1 @@
-# nelify-starter
+# netlify-starter
